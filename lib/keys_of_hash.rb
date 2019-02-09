@@ -2,11 +2,11 @@ require 'pry'
 class Hash
   def keys_of(*arguments)
     # arguments = Panama
-    array = []
+    cool = []
     self.each do |key,value|
       arguments.each do |arg|
         if arg == value
-        array << key
+        cool << key
           # code goes here
 #arguments.detect do |arg|    # code goes here
   binding.pry
