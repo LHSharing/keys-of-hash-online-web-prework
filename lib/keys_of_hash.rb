@@ -13,8 +13,8 @@ class Hash
 end
         end
      end
+     return cool
   end
-  return cool
 end
 
 # keys_of returns an array
