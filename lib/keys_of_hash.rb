@@ -14,7 +14,7 @@ end
         end
      end
   end
-  return array
+  return cool
 end
 
 # keys_of returns an array
