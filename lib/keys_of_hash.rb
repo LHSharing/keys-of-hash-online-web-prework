@@ -9,7 +9,7 @@ class Hash
         cool << key
           # code goes here
 #arguments.detect do |arg|    # code goes here
-  binding.pry
+  #binding.pry
 end
         end
      end
