@@ -10,7 +10,7 @@ class Hash
           # code goes here
 #arguments.detect do |arg|    # code goes here
   binding.pry
-
+end
         end
      end
   end
