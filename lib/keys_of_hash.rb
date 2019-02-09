@@ -11,8 +11,8 @@ class Hash
 #arguments.detect do |arg|    # code goes here
   binding.pry
         end
-     #end
-  #end
+     end
+  end
   return array
 end
 
