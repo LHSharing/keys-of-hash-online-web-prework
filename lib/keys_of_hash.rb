@@ -12,7 +12,7 @@ class Hash
   binding.pry
         end
      end
-  end
+  #end
   return array
 end
 
