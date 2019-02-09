@@ -5,7 +5,7 @@ class Hash
     #arguments.each do |arg|    # code goes here
 #arguments.detect do |arg|    # code goes here
   binding.pry
-    end
+    #end
    end
 end
 
